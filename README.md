@@ -6,7 +6,7 @@ A documented self-study of MIT OpenCourseWare 6.006 (Spring 2020), including lec
 - Course Number: 6.006
 - Semester: Spring 2020
 - Official OCW Page: https://ocw.mit.edu
-- Instructors: Erik Demaine, Jason Ku, Justin Solomon
+- Instructors: Prof. Erik Demaine, Dr. Jason Ku, Prof. Justin Solomon
 
 ## Progress Tracker
 
